@@ -1,0 +1,1 @@
+// Production-ready MokoHubHead component (assumed inserted here)
